@@ -6,6 +6,16 @@ import re
 
 AUDIO_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'audio')
 
+def page_sort_key(track):
+    """Sort by page number; tracks without a page go first (alphabetically).
+    Ties on the same page are broken by exercise number, then title."""
+    title = track['title']
+    pm = re.search(r'\bpp?\s*[.,]?\s*(\d+)', title, re.IGNORECASE)
+    em = re.search(r'\bex\s*[.,]?\s*(\d+)', title, re.IGNORECASE)
+    if pm:
+        return (1, int(pm.group(1)), int(em.group(1)) if em else 0, title)
+    return (0, 0, 0, title)
+
 def main():
     tracks = {}
     
@@ -35,9 +45,9 @@ def main():
                 tracks[key] = []
             tracks[key].append({'title': title, 'src': src})
     
-    # Sort tracks within each CD
+    # Sort tracks within each CD by page number
     for key in tracks:
-        tracks[key].sort(key=lambda x: x['title'])
+        tracks[key].sort(key=page_sort_key)
     
     # Sort CD keys
     sorted_tracks = dict(sorted(tracks.items()))
