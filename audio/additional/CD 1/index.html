@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Аудиоплеер Google Диск</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f9;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .player-container {
+        background: #ffffff;
+        padding: 20px;
+        border-radius: 12px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 500px;
+        text-align: center;
+      }
+
+      h2 {
+        color: #333;
+        margin-bottom: 5px;
+        font-size: 1.2rem;
+      }
+
+      p {
+        color: #666;
+        font-size: 0.9rem;
+        margin-bottom: 20px;
+      }
+
+      /* Контейнер для iframe, чтобы скрыть лишние черные поля плеера Google */
+      .iframe-wrapper {
+        position: relative;
+        width: 100%;
+        height: 62px; /* Минимальная высота, чтобы осталась только полоса управления */
+        overflow: hidden;
+        border-radius: 8px;
+        border: 1px solid #e0e0e0;
+      }
+
+      .iframe-wrapper iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="player-container">
+      <h2>Мой Аудиофайл</h2>
+      <p>Воспроизведение напрямую с Google Drive</p>
+
+      <div class="iframe-wrapper">
+        <!-- 
+              ЗАМЕНИТЕ "1A2b3C4d5E6f7G8h9I0j_KlMnOpQrStUv" НА ID ВАШЕГО ФАЙЛА 
+              (Убедитесь, что доступ к файлу на Google Диске открыт для "Всех, у кого есть ссылка")
+            -->
+        <iframe
+          src="https://drive.google.com/file/d/1384kk59A7s5XaLuynKKy8X_2-601ux2Z/"
+          allow="autoplay"
+        >
+        </iframe>
+      </div>
+    </div>
+  </body>
+</html>
