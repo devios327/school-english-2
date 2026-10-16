@@ -836,92 +836,244 @@ const TRACKS = {
   ],
   "school/CD1": [
     {
-      title: "Chant (a-z)",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/Chant (a-z).mp3",
+      title: "Letter Blends! ex.1, p.12",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/Letter Blends! ex.1, p.12.mp3",
     },
     {
-      title: "Let's Go! ex. 1 p.4",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/Let's Go! ex. 1 p.4.mp3",
+      title: "ex.3, p.13",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.13.mp3",
     },
     {
-      title: "My Letters! ex. 1 p.6",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/My Letters! ex. 1 p.6.mp3",
+      title: "ex.1, p.14",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.14.mp3",
     },
     {
-      title: "ex.2 p.6",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2 p.6.mp3",
+      title: "ex.3, p.15",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.15.mp3",
     },
     {
-      title: "ex.1 p.8",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1 p.8.mp3",
+      title: "ex.1, p.16",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.16.mp3",
     },
     {
-      title: "ex.2 p. 8",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2 p. 8.mp3",
+      title: "ex.3, p.17",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.17.mp3",
     },
     {
-      title: "ex.1 p.10",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1 p.10.mp3",
+      title: "Hello! ex.1, p.18",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/Hello! ex.1, p.18.mp3",
     },
     {
-      title: "ex.2 p.10",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2 p.10.mp3",
+      title: "ex.3, p.19",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.19.mp3",
     },
     {
-      title: "Letter Blends! ex.1 p.12",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/Letter Blends! ex.1 p.12.mp3",
+      title: "ex.1, p.20",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.20.mp3",
     },
     {
-      title: "ex.3 p.13",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3 p.13.mp3",
+      title: "ex.2, p.21",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2, p.21.mp3",
     },
     {
-      title: "ex.1 p.14",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1 p.14.mp3",
+      title: "My Family! ex.1, p.22",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/My Family! ex.1, p.22.mp3",
     },
     {
-      title: "ex.3 p.15",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3 p.15.mp3",
+      title: "ex.3, p.23",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.23.mp3",
     },
     {
-      title: "ex.1 p.16",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1 p.16.mp3",
+      title: "ex.1, p.24",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.24.mp3",
     },
     {
-      title: "ex.3 p.17 Starter Unit",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3 p.17 Starter Unit.mp3",
+      title: "ex.3, p.25",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.25.mp3",
     },
     {
-      title: "Hello! ex. 1 p.18",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/Hello! ex. 1 p.18.mp3",
+      title: "ex.1, p.26",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.26.mp3",
     },
     {
-      title: "ex.3 p.19",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3 p.19.mp3",
+      title: "ex.3, p.27",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.27.mp3",
     },
     {
-      title: "ex.1 p.20",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1 p.20.mp3",
+      title: "ex.3, p.29",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.29.mp3",
     },
     {
-      title: "ex.2 p.21",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2 p.21.mp3",
+      title: "ex.1, p.30",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.30.mp3",
     },
     {
-      title: "My Family! ex.1 p.22",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/My Family! ex.1 p.22.mp3",
+      title: "ex.3, p.31",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.31.mp3",
     },
     {
-      title: "ex.3 p.23",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3 p.23.mp3",
+      title: "ex.1, p.32",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.32.mp3",
     },
     {
-      title: "ex.1 p.24",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1 p.24.mp3",
+      title: "ex.3, p.33",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.33.mp3",
     },
     {
-      title: "ex.3 p.25",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3 p.25.mp3",
+      title: "ex.1, p.34",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.34.mp3",
+    },
+    {
+      title: "ex.2, p.34",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2, p.34.mp3",
+    },
+    {
+      title: "ex.3, p.35",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.35.mp3",
+    },
+    {
+      title: "ex.2, p.36",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2, p.36.mp3",
+    },
+    {
+      title: "ex.5, p.37",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.5, p.37.mp3",
+    },
+    {
+      title: "Story pp.40-41",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/Story pp.40-41.mp3",
+    },
+    {
+      title: "ex.1, p.44",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.44.mp3",
+    },
+    {
+      title: "ex.3, p.45",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.45.mp3",
+    },
+    {
+      title: "ex.3, p.47",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.47.mp3",
+    },
+    {
+      title: "ex.1, p.48",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.48.mp3",
+    },
+    {
+      title: "ex.3, p.49",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.49.mp3",
+    },
+    {
+      title: "ex.1, p.50",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.50.mp3",
+    },
+    {
+      title: "ex.3, p.51",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.51.mp3",
+    },
+    {
+      title: "ex.1, p.52",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.52.mp3",
+    },
+    {
+      title: "ex.2, p.52",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2, p.52.mp3",
+    },
+    {
+      title: "ex.3, p.53",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.53.mp3",
+    },
+    {
+      title: "ex.2, p.54",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2, p.54.mp3",
+    },
+    {
+      title: "ex.5, p.55",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.5, p.55.mp3",
+    },
+    {
+      title: "Story pp.58-59",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/Story pp.58-59.mp3",
+    },
+    {
+      title: "ex.1, p.62",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.62.mp3",
+    },
+    {
+      title: "ex.3, p.63",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.63.mp3",
+    },
+    {
+      title: "ex.3, p.65",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.65.mp3",
+    },
+    {
+      title: "ex.1, p.66",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.66.mp3",
+    },
+    {
+      title: "ex.3, p.67",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.67.mp3",
+    },
+    {
+      title: "ex.1, p.68",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.68.mp3",
+    },
+    {
+      title: "ex.3, p.69",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.69.mp3",
+    },
+    {
+      title: "ex.1, p.70",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.70.mp3",
+    },
+    {
+      title: "ex.2, p.70",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2, p.70.mp3",
+    },
+    {
+      title: "ex.3, p.71",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.71.mp3",
+    },
+    {
+      title: "ex.2, p.72",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2, p.72.mp3",
+    },
+    {
+      title: "ex.5, p.73",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.5, p.73.mp3",
+    },
+    {
+      title: "Story pp.76-77",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/Story pp.76-77.mp3",
+    },
+    {
+      title: "ex.1, p.80",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.80.mp3",
+    },
+    {
+      title: "ex.3, p.81",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.81.mp3",
+    },
+    {
+      title: "ex.3, p.83",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.83.mp3",
+    },
+    {
+      title: "ex.1, p.84",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.84.mp3",
+    },
+    {
+      title: "ex.3, p.85",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.85.mp3",
+    },
+    {
+      title: "ex.1, p.86",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.86.mp3",
+    },
+    {
+      title: "ex.3, p.87",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.87.mp3",
     },
   ],
   "school/CD2": [
