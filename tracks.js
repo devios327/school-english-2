@@ -841,7 +841,7 @@ const TRACKS = {
     },
     {
       title: "ex.3, p.13",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3, p.13.mp3",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.3%2C p.13.mp3",
     },
     {
       title: "ex.1, p.14",
@@ -861,7 +861,7 @@ const TRACKS = {
     },
     {
       title: "Hello! ex.1, p.18",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/Hello! ex.1, p.18.mp3",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/Hello! ex.1%2C p.18.mp3",
     },
     {
       title: "ex.3, p.19",
@@ -873,7 +873,7 @@ const TRACKS = {
     },
     {
       title: "ex.2, p.21",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2, p.21.mp3",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.2%2C p.21.mp3",
     },
     {
       title: "My Family! ex.1, p.22",
@@ -893,7 +893,7 @@ const TRACKS = {
     },
     {
       title: "ex.1, p.26",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.26.mp3",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1%2C p.26.mp3",
     },
     {
       title: "ex.3, p.27",
@@ -913,7 +913,7 @@ const TRACKS = {
     },
     {
       title: "ex.1, p.32",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.32.mp3",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1%2C p.32.mp3",
     },
     {
       title: "ex.3, p.33",
@@ -921,7 +921,7 @@ const TRACKS = {
     },
     {
       title: "ex.1, p.34",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.34.mp3",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1%2C p.34.mp3",
     },
     {
       title: "ex.2, p.34",
@@ -945,7 +945,7 @@ const TRACKS = {
     },
     {
       title: "ex.1, p.44",
-      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1, p.44.mp3",
+      src: "https://media.githubusercontent.com/media/devios327/school-english-2/refs/heads/main/audio/school/CD1/ex.1%2C p.44.mp3",
     },
     {
       title: "ex.3, p.45",
